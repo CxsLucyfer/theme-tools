@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@shopify/theme-check-common": "^2.0.0",
-    "ajv": "^8.12.0",
+    "ajv": "^8.18.0",
     "env-paths": "^2.2.1",
     "node-fetch": "^2.6.11"
   },
